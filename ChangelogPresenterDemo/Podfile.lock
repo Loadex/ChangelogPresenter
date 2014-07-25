@@ -1,0 +1,14 @@
+PODS:
+  - ChangelogPresenter (1.0.0)
+
+DEPENDENCIES:
+  - ChangelogPresenter (from `../`)
+
+EXTERNAL SOURCES:
+  ChangelogPresenter:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ChangelogPresenter: ebda0200977f2d05385f5ce09041383e4f94ef6f
+
+COCOAPODS: 0.33.1
