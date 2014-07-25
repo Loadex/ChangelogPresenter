@@ -1,6 +1,6 @@
 ChangelogPresenter
 ==============
-
+***This project is in development and not ready for use yet***
 Writing in progress.
 
 ScreenShots
